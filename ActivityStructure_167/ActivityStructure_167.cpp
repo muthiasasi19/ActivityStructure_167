@@ -22,8 +22,10 @@ int main()
 	cin >> mhs2.nim;
 	cout << "Masukkan nama: ";
 	cin >> mhs2.nama;
-	
-
+	cout << "Masukkan alamat: ";
+	cin >> mhs2.alamat;
+	cout << "Masukkan umur: ";
+	cin >> mhs2.umur;
 }
 
 
